@@ -1,0 +1,346 @@
+GET http://192.168.56.1
+
+###
+
+GET http://localhost:80/api/item?id=99
+Accept: application/json
+
+###
+
+GET http://httpbin.org/ip
+
+<> 2020-03-18T113831.200.json
+
+###
+
+GET http://192.168.56.1?=
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+GET http://192.168..56.1?=
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+GET http://192.168.8.101?=
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+GET http://httpbin.org/ip
+
+<> 2020-03-18T112009.200.json
+
+###
+
+GET http://localhost:80/api/item?id=99
+Accept: application/json
+
+###
+
+GET http://192.168.56.1?=
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+GET http://openx.com?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-18T111811.200.html
+
+###
+
+GET http://192.168.56.1
+
+###
+
+GET http://192.168.56.1
+
+###
+
+GET http://openx.com?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-18T111138.200.html
+
+###
+
+GET http://openx.com?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-18T111111-1.200.html
+
+###
+
+GET http://openx.com?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-18T111111.200.html
+
+###
+
+GET http://openx.com?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T015535.200.html
+
+###
+
+GET http://uservoice.com/api/v2/?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T015346.404.html
+
+###
+
+GET http://uservoice.com/api/v2/admin/statuses/?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T013337.404.html
+
+###
+
+GET http://uservoice.com/api/v2/admin/statuses/id?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T013327.404.html
+
+###
+
+GET http://zalando.com?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T012843.200.html
+
+###
+
+GET http://google.com?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T012710.200.html
+
+###
+
+GET http://badoo.com?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T012447.200.html
+
+###
+
+GET http://localhost:8080/resources
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+POST http://?=
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+POST http://cygnus.cloud?=
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+POST http://marketplace.com?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T011549.405.html
+
+###
+
+GET http://marketplace.com?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T011333.200.html
+
+###
+
+GET http://?=
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:3000/q?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T011240.404.html
+
+###
+
+GET http://localhost:3000/v1?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T011229.404.html
+
+###
+
+GET http://localhost:3000/?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T011158.200.html
+
+###
+
+GET http://localhost:8080/resources
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+GET http://elastic.co/?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T011056.503.html
+
+###
+
+GET http://elastic.co/?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T011007-1.503.html
+
+###
+
+GET http://elastic.co/?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T011007.503.html
+
+###
+
+GET http://elastic.co/?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T010814.504.html
+
+###
+
+OPTIONS http://elastic.co/?=
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+OPTIONS http://elastic.co/?=
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+GET http://10.0.2.15/?=
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+GET http://192.168.56.1/?=
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+GET http://uservoice.com/?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T010038.200.html
+
+###
+
+GET http://localhost:3001/?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T010020.200.html
+
+###
+
+PUT http://localhost:3001/?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T010016.404.html
+
+###
+
+PUT http://localhost:3002/?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T125954.404.html
+
+###
+
+POST http://localhost:3002/?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T125943.404.html
+
+###
+
+GET http://localhost:3002/?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T125846.200.html
+
+###
+
+GET http://localhost:3002/api?=
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-03-15T125835.404.html
+
+###
+
+GET http://localhost:8080/api?=
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/resources?=1
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/resources?=
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
