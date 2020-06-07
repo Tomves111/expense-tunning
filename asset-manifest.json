@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/expense-tunning/static/css/main.d6bbec93.chunk.css",
+    "main.js": "/expense-tunning/static/js/main.7e63db60.chunk.js",
+    "main.js.map": "/expense-tunning/static/js/main.7e63db60.chunk.js.map",
+    "runtime-main.js": "/expense-tunning/static/js/runtime-main.7a19c86a.js",
+    "runtime-main.js.map": "/expense-tunning/static/js/runtime-main.7a19c86a.js.map",
+    "static/css/2.e2192fc4.chunk.css": "/expense-tunning/static/css/2.e2192fc4.chunk.css",
+    "static/js/2.8bd4e290.chunk.js": "/expense-tunning/static/js/2.8bd4e290.chunk.js",
+    "static/js/2.8bd4e290.chunk.js.map": "/expense-tunning/static/js/2.8bd4e290.chunk.js.map",
+    "index.html": "/expense-tunning/index.html",
+    "precache-manifest.c7884e2ae761c71ade91aa5600b06e81.js": "/expense-tunning/precache-manifest.c7884e2ae761c71ade91aa5600b06e81.js",
+    "service-worker.js": "/expense-tunning/service-worker.js",
+    "static/css/2.e2192fc4.chunk.css.map": "/expense-tunning/static/css/2.e2192fc4.chunk.css.map",
+    "static/css/main.d6bbec93.chunk.css.map": "/expense-tunning/static/css/main.d6bbec93.chunk.css.map",
+    "static/js/2.8bd4e290.chunk.js.LICENSE.txt": "/expense-tunning/static/js/2.8bd4e290.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a19c86a.js",
+    "static/css/2.e2192fc4.chunk.css",
+    "static/js/2.8bd4e290.chunk.js",
+    "static/css/main.d6bbec93.chunk.css",
+    "static/js/main.7e63db60.chunk.js"
+  ]
+}
