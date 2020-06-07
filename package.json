@@ -2,6 +2,7 @@
   "name": "expense-tunning",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://tomves111.github.io/expense-tunning",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -9,6 +10,7 @@
     "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
     "d3-zoom": "^1.8.3",
+    "gh-pages": "^3.0.0",
     "prettier": "^1.19.1",
     "react": "^16.13.0",
     "react-d3-library": "^1.1.8",
@@ -21,6 +23,7 @@
     "react-scripts": "3.4.0"
   },
   "scripts": {
+    "deploy":"npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

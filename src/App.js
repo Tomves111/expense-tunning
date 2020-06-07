@@ -5,7 +5,7 @@ import Users from "./components/users/Users";
 import Search from "./components/users/Search";
 import axios from 'axios';
 import User from "./components/users/User";
-import {BrowserRouter as Router, Switch, Route, Link} from 'react-router-dom';
+import { HashRouter as Router, Switch, Route, Link} from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'react-grid-layout/css/styles.css';
 import 'react-resizable/css/styles.css';
